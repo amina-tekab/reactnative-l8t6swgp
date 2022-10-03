@@ -1,2 +1,3 @@
-# reactnative-l8t6swgp
-Created with Components.studio
+# React Native demo
+
+From [React Native Tutorial](https://reactnative.dev/docs/tutorial)

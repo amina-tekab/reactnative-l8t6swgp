@@ -1,0 +1,7 @@
+{
+  "name": "@components-studio/null.reactnative-l8t6swgp",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve UWDF2nDwA8V5umAip1Wd --open"
+  }
+}
